@@ -392,3 +392,18 @@ hr {
   background-color: #7d73fc;
   border-style: none;
 }
+
+.foota a {
+  color: #ebebff;
+  font-size: 20px;
+}
+
+.foota .social ul {
+  padding-bottom: 1px;
+}
+
+.contact-image {
+  display: inline-block;
+  margin-top: 60px;
+  margin-bottom: 25px;
+}
