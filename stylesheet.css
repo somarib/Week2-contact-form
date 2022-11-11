@@ -348,3 +348,27 @@ hr {
   text-align: center;
   margin-bottom: 15px;
 }
+
+.cc-top {
+  margin-top: 100px;
+}
+
+.myform {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.myform input {
+  width: 295px;
+  height: 18px;
+  color: #81818c;
+  font-size: 15px;
+  padding: 15px 16px 15px;
+  margin-bottom: 15px;
+}
+
+.myform input.inp-email {
+  color: #191765;
+}
