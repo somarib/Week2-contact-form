@@ -372,3 +372,23 @@ hr {
 .myform input.inp-email {
   color: #191765;
 }
+
+.myform textarea {
+  width: 303px;
+  height: 124px;
+  color: #81818c;
+  font-size: 15px;
+  padding: 12px;
+  margin-bottom: 15px;
+}
+
+.myform .mmb {
+  display: block;
+  width: 100px;
+  height: 50px;
+  color: #edecff;
+  font-size: 12px;
+  font-weight: 500;
+  background-color: #7d73fc;
+  border-style: none;
+}
