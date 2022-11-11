@@ -393,6 +393,23 @@ hr {
   border-style: none;
 }
 
+.mmb:active {
+  background-color: #5e42df;
+}
+
+.myform .mmb:disabled {
+  background-color: #2a2b33;
+}
+
+.myform button.mmb:hover {
+  background-color: #7d73fc;
+  box-shadow: 1px 8px 16px;
+}
+
+.myform .mmb:enabled {
+  background-color: #7d73fc;
+}
+
 .foota a {
   color: #ebebff;
   font-size: 20px;
